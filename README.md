@@ -21,10 +21,10 @@ Puppies and fluffies is an application that provides a quick, easy, and efficien
     - The login page allows users to sign in. You can also use your Google login to enter the website.
     - Sign up page allows you to create an account with the website.
 Contributing
-    - Dev-ops team
-    - Mock-up team
-    - Q&A testing
-    - Staging
+    Dev-ops team
+    Mock-up team
+    Q&A testing
+    Staging
 # Credits
 
 IS421 Fall 2016 Team.
