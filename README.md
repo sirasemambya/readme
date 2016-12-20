@@ -20,7 +20,7 @@ Puppies and fluffies is an application that provides a quick, easy, and efficien
     - The Feedback page allows consumer to give their feedback about how the company can improve or the items that they appreciate.
     - The login page allows users to sign in. You can also use your Google login to enter the website.
     - Sign up page allows you to create an account with the website.
-Contributing
+# Contributing
     Dev-ops team
     Mock-up team
     Q&A testing
